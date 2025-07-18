@@ -1,0 +1,6 @@
+[
+  { "username": "mwobrien", "password": "120516", "preferredFirstName": "Miles", "isAdmin": false },
+  { "username": "aaobrien", "password": "11015", "preferredFirstName": "Audrey", "isAdmin": false },
+  { "username": "admin", "password": "password!", "preferredFirstName": "Dukat", "isAdmin": true },
+  { "username": "dwhitman", "password": "31678", "preferredFirstName": "David", "isAdmin": false }
+]
